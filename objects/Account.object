@@ -365,6 +365,15 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>new_checkbox__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>new checkbox</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>new_field_v13__c</fullName>
         <externalId>false</externalId>
         <label>new field v13</label>
