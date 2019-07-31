@@ -1822,10 +1822,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>LiveChatTranscript-new layout</layout>
-        <recordType>LiveChatTranscript.USAA_RT_1</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>LiveChatTranscript-new layout</layout>
         <recordType>LiveChatTranscript.USAA_RT_3</recordType>
     </layoutAssignments>
     <layoutAssignments>
@@ -3017,11 +3013,6 @@
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
         <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>LiveChatTranscript.USAA_RT_1</recordType>
-        <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
