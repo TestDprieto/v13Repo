@@ -1570,10 +1570,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Event-Event Layout</layout>
-        <recordType>Event.Diagnostic_Perinatal_Event</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-Event Layout</layout>
         <recordType>Event.Surgical_Event</recordType>
     </layoutAssignments>
     <layoutAssignments>
