@@ -45,6 +45,7 @@
     <enableHistory>false</enableHistory>
     <fields>
         <fullName>AccountId</fullName>
+        <inlineHelpText>The Account Name goes here</inlineHelpText>
         <trackFeedHistory>false</trackFeedHistory>
         <trackTrending>false</trackTrending>
         <type>Lookup</type>
@@ -117,6 +118,18 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>Discount_Percent__c</fullName>
+        <externalId>false</externalId>
+        <inlineHelpText>Percentage of the Discount</inlineHelpText>
+        <label>Discount Percent</label>
+        <precision>18</precision>
+        <required>true</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Percent</type>
+    </fields>
+    <fields>
         <fullName>ExpectedRevenue</fullName>
         <trackTrending>false</trackTrending>
     </fields>
@@ -159,6 +172,7 @@
     <fields>
         <fullName>OrderNumber__c</fullName>
         <externalId>false</externalId>
+        <inlineHelpText>The Order Number goes here</inlineHelpText>
         <label>Order Number</label>
         <length>8</length>
         <required>false</required>
