@@ -146,6 +146,32 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Field_1__c</fullName>
+        <externalId>false</externalId>
+        <label>Field 1</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Field_3__c</fullName>
+        <externalId>false</externalId>
+        <label>Field 3</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Phone</type>
+    </fields>
+    <fields>
+        <fullName>Field_4__c</fullName>
+        <externalId>false</externalId>
+        <label>Field 4</label>
+        <length>15</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>HasOptedOutOfEmail</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
