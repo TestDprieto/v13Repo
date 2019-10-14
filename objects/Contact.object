@@ -214,6 +214,16 @@
         <trackFeedHistory>true</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>New_field_1__c</fullName>
+        <externalId>false</externalId>
+        <label>New field 1</label>
+        <length>15</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>OtherAddress</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
