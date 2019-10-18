@@ -169,7 +169,7 @@
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <isServiceCloudConsole>true</isServiceCloudConsole>
-    <label>0001 Refinitiv Console</label>
+    <label>0002 Refinitiv Console</label>
     <preferences>
         <enableCustomizeMyTabs>false</enableCustomizeMyTabs>
         <enableKeyboardShortcuts>true</enableKeyboardShortcuts>
