@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>CusObj 2</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>COs 2</value>
+    </caseValues>
+    <fields>
+        <label><!-- Error Lien Holder Repo --></label>
+        <name>Error_Lien_Holder_Repo__c</name>
+    </fields>
+    <fields>
+        <label><!-- Error Under 2500 --></label>
+        <name>Error_Under_2500__c</name>
+    </fields>
+    <startsWith>Vowel</startsWith>
+    <webLinks>
+        <label><!-- Repo_Recovary_Approval --></label>
+        <name>Repo_Recovary_Approval</name>
+    </webLinks>
+</CustomObjectTranslation>
