@@ -160,14 +160,6 @@
         </listPlacement>
         <listRefreshMethod>none</listRefreshMethod>
         <primaryTabColor>#0070D2</primaryTabColor>
-        <pushNotifications>
-            <fieldNames>0</fieldNames>
-            <objectName>Campaign</objectName>
-        </pushNotifications>
-        <pushNotifications>
-            <fieldNames>0</fieldNames>
-            <objectName>Refinitiv_CO_4_Console_App__c</objectName>
-        </pushNotifications>
     </consoleConfig>
     <defaultLandingTab>standard-home</defaultLandingTab>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
