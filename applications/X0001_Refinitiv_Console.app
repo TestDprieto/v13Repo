@@ -160,10 +160,6 @@
         </listPlacement>
         <listRefreshMethod>none</listRefreshMethod>
         <primaryTabColor>#0070D2</primaryTabColor>
-        <pushNotifications>
-            <fieldNames>0</fieldNames>
-            <objectName>Campaign</objectName>
-        </pushNotifications>
     </consoleConfig>
     <defaultLandingTab>standard-home</defaultLandingTab>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
