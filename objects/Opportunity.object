@@ -211,6 +211,15 @@
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
     </fields>
+    <fields>
+        <fullName>to_bedeleted__c</fullName>
+        <externalId>false</externalId>
+        <label>to bedeleted</label>
+        <required>true</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
     <listViews>
         <fullName>AllOpportunities</fullName>
         <filterScope>Everything</filterScope>
